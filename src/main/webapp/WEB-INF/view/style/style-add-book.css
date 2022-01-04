@@ -1,0 +1,18 @@
+p {
+    font-size: small;
+}
+
+h4 {
+    color: seagreen;
+}
+h1 {
+    color: mediumvioletred;
+}
+
+body {
+    font-size: 1.0rem;
+    line-height: 1.1;
+    max-width: 320px;
+    margin: auto;
+    background-color: snow;
+}
